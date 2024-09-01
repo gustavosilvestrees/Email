@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+}
+
+body{
+    width: 100%;
+    background-color: rgb(152, 245, 245);
+}
+
+#container1{
+    display: flex;
+}
+
+#perfil{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+#menu{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+
+#informacoes{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    display: flex;
+}
+
+#container2{
+    
+}
+
+#recebidos{
+    background-color: pink;
+    width: 200px;
+    height: 200px;
+}
+
+#aberto{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
